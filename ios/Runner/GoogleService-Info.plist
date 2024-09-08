@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>973024455676-n7cqtcs2lrv4c8g1qqtq272giummc61h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.973024455676-n7cqtcs2lrv4c8g1qqtq272giummc61h</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>973024455676-thegebgie00cm6a9g15hvjvkj6fb13e8.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBwMWd557Chkp6jNEweCCMXQPC-OxuI57A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>973024455676</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.rentalApp</string>
+	<key>PROJECT_ID</key>
+	<string>my-application-percobaan-268ac</string>
+	<key>STORAGE_BUCKET</key>
+	<string>my-application-percobaan-268ac.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:973024455676:ios:8c97f4f366a01b309fa079</string>
+	<key>DATABASE_URL</key>
+	<string>https://my-application-percobaan-268ac-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

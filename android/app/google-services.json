@@ -1,0 +1,235 @@
+{
+  "project_info": {
+    "project_number": "973024455676",
+    "firebase_url": "https://my-application-percobaan-268ac-default-rtdb.firebaseio.com",
+    "project_id": "my-application-percobaan-268ac",
+    "storage_bucket": "my-application-percobaan-268ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973024455676:android:e1ed87d53ce16a319fa079",
+        "android_client_info": {
+          "package_name": "com.eggy.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973024455676-thegebgie00cm6a9g15hvjvkj6fb13e8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eggy.chatapp",
+            "certificate_hash": "84fe287ec2eb2ccb857eb53e1ba04f7deaa026e7"
+          }
+        },
+        {
+          "client_id": "973024455676-mdnpghg1dq05diqs6nfmm2rdsrek041q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgJ-XZCd1EBgxlS-HAxq4yWjbtnEZrcIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973024455676-mdnpghg1dq05diqs6nfmm2rdsrek041q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "973024455676-9hgq5uj1mfpj8gs3mjrugma705she74g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eggy.chatapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973024455676:android:ae37b0ae6dc5070e9fa079",
+        "android_client_info": {
+          "package_name": "com.eggy.myapplicationpercobaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973024455676-mdnpghg1dq05diqs6nfmm2rdsrek041q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgJ-XZCd1EBgxlS-HAxq4yWjbtnEZrcIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973024455676-mdnpghg1dq05diqs6nfmm2rdsrek041q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "973024455676-9hgq5uj1mfpj8gs3mjrugma705she74g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eggy.chatapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973024455676:android:bcd1e3e44dd76c6d9fa079",
+        "android_client_info": {
+          "package_name": "com.eggy.spotifyclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973024455676-mdnpghg1dq05diqs6nfmm2rdsrek041q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgJ-XZCd1EBgxlS-HAxq4yWjbtnEZrcIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973024455676-mdnpghg1dq05diqs6nfmm2rdsrek041q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "973024455676-9hgq5uj1mfpj8gs3mjrugma705she74g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eggy.chatapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973024455676:android:00a7af65d399057c9fa079",
+        "android_client_info": {
+          "package_name": "com.example.qr_code"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973024455676-mdnpghg1dq05diqs6nfmm2rdsrek041q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgJ-XZCd1EBgxlS-HAxq4yWjbtnEZrcIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973024455676-mdnpghg1dq05diqs6nfmm2rdsrek041q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "973024455676-9hgq5uj1mfpj8gs3mjrugma705she74g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eggy.chatapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973024455676:android:9f7690b07c221cd79fa079",
+        "android_client_info": {
+          "package_name": "com.example.rental_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973024455676-mdnpghg1dq05diqs6nfmm2rdsrek041q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgJ-XZCd1EBgxlS-HAxq4yWjbtnEZrcIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973024455676-mdnpghg1dq05diqs6nfmm2rdsrek041q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "973024455676-9hgq5uj1mfpj8gs3mjrugma705she74g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eggy.chatapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973024455676:android:5feb3977267ef0ee9fa079",
+        "android_client_info": {
+          "package_name": "com.example.ulearning_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973024455676-mdnpghg1dq05diqs6nfmm2rdsrek041q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgJ-XZCd1EBgxlS-HAxq4yWjbtnEZrcIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973024455676-mdnpghg1dq05diqs6nfmm2rdsrek041q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "973024455676-9hgq5uj1mfpj8gs3mjrugma705she74g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eggy.chatapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
